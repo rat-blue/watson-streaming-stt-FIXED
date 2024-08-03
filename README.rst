@@ -1,4 +1,11 @@
 ==========================================================
+FORK UPDATE
+==========================================================
+
+watsonplatform.net url seems to be dead, in this fork I just changed to include the newer url endpoints
+
+
+==========================================================
 WARNING: This repository is no longer maintained :warning:
 ==========================================================
 
